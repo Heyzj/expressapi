@@ -16,4 +16,4 @@
 
 `node app.js`
 
-###### 关于使用该API的前端源码在：https://github.com/Heyzj/bigdata ，使用时需要将请求根路径更换wei `http://127.0.0.1`，数据库使用Mysql ,在文件 **/db** 下
+###### 关于使用该API的前端源码在：https://github.com/Heyzj/bigdata ，使用时需要将请求根路径更换wei `http://127.0.0.1`，数据库使用Mysql ,在文件 **/db/express.sql** 下
